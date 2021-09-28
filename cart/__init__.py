@@ -1,0 +1,3 @@
+"""django-cart is a simple and lightweight application for shopping carts and wish lists."""
+
+__version__ = '1.2.1'
